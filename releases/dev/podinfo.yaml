@@ -16,7 +16,7 @@ spec:
   values:
     image:
       repository: ankushvijay/podinfo
-      tag: dev-hdtwcel9
+      tag: dev-4iac6x8t
     replicaCount: 1
     hpa:
       enabled: false
